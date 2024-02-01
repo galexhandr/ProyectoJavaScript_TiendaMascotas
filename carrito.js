@@ -5,7 +5,15 @@ let datos2 = toString(localStorage.getItem("cantidad"));
 var contenedor1 = document.createElement("div");
 document.body.appendChild(contenedor1);
 
-document.getElementById("constante").innerText += localStorage.getItem("cantidad");
+//let nulo = document.getElementById("constante").innerText += localStorage.getItem("cantidad");
+//console.log(nulo);
+if (document.getElementById("constante").innerText === null) {  
+  document.getElementById("constante").remove;
+  //document.getElementById("constante").innerText="";
+}else{document.getElementById("constante").innerText += localStorage.getItem("cantidad");
+};
+
+
 
 //le añado un id al elemento div1
 var div = document.getElementsByTagName("main")[0];
@@ -36,9 +44,9 @@ refresh.addEventListener('click', _ => {
 
 
 
-let total=0;
-for(let i of data[precio]) total+=i;
-console.log(total);
+//let total=0;
+//for(let i of data[precio]) total+=i;
+//console.log(total);
 
 
 

@@ -1,4 +1,37 @@
-
+//async function obtenerProductos() {
+//  try {
+//    // Solicitamos los datos en la api
+//    //const respuesta = await fetch(`https://rickandmortyapi.com/api/character/?page=${contador}`);
+//    //const respuesta = await fetch(`file:///home/guillermo/Documentos/MiPrimerRepositorioGrupo13/Proyecto_JavaScript/productos.json`);
+//    const respuesta = await fetch(`productos.json`);
+//    //const respuesta = await fs.readFile("productos.json", "utf-8");
+//    //console.log(respuesta);
+//    //Convertimos los datos a JSON
+//    const datos = await respuesta.json();
+//
+//
+//    //const datos = JSON.parse(respuesta);
+//    console.log(datos);
+//    // Iteramos sobre el array de Productos (results) y cargamos el DOM
+//
+//    datos.map((producto) => {
+//        document.getElementById("contenedorProductos").innerHTML += `
+//            <div id ="productos" class="productos">
+//                <img id="img" src="${producto.imagen}" alt="${producto.nombre}"/>
+//                <p><b><u>PRODUCTO:</u></b> ${producto.nombre}</p>
+//                <p><b><u>DESCRIPCIÓN:</u></b> ${producto.descripcion}</p>
+//                <p><b><u>PRECIO:</u></b> ${producto.precio}</p>
+//                <p><b><u>STOCK:</u></b>  ${producto.stock}</p>
+//                <button id="boton">Agregar al carrito</button>
+//            </div>`;
+//        });
+//  } catch (error) {
+//    console.error(`Error: ${error}`);
+//  } finally {
+//    console.log("Se ejecuto la funcion 'obtenerProductos'");
+//  }
+//}
+//obtenerProductos();
 
 // URL de la API
 const API = `productos.json`;

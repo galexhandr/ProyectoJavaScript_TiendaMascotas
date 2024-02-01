@@ -85,7 +85,7 @@ a{
     font-size: 1rem;
     font-family:Arial, Helvetica, sans-serif;
     font-weight: 900;
-    margin-left: -30px;
+    margin-left: -43px;
     margin-top: -19px;
 }
 
@@ -97,8 +97,16 @@ a{
 }
 
 #pantalla_carrito{
-   
-  margin-bottom: 250px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  margin-block: 30px;
+  margin-inline: 200px;
+  border-radius: 20PX;
+  background-color: rgba(250, 67, 0, 0.685);
+  
 }
 
 .menu{
@@ -278,8 +286,8 @@ a{
 
 .suscripcion{
     
-    width:40px;
-    height:40px;
+    width: 50px;
+    height:50px;
     
 }
 
@@ -338,19 +346,22 @@ a{
   display: flex;
   flex-direction: column;
   align-items: center;
+  width: 100%;
   gap:15px;
-  margin-top: 100px;
+  padding: 100px;
 
 }
 
 .item{
+  
   display: flex;
-  /*flex-direction: row;*/
+  flex-direction: row;
   align-items:end;
+
   /*border-style: solid;*/
-  width: 50%;
-  padding: 5px;
-  gap:10px;
+  width: 80%;
+  
+  
   justify-content: space-between;
   /*border-style: solid;*/
 }
@@ -359,11 +370,12 @@ a{
   display: flex;
   flex-direction: column;
   text-align: right;
-  gap:50px
+  gap:50px;
+  
 }
 
 .carrito div p{
-  font-size: 1rem;
+  font-size: 1.2rem;
 }
 
 .carrito img{
