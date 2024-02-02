@@ -8,8 +8,9 @@ document.body.appendChild(contenedor1);
 //let nulo = document.getElementById("constante").innerText += localStorage.getItem("cantidad");
 //console.log(nulo);
 if (document.getElementById("constante").innerText === null) {  
-  document.getElementById("constante").remove;
-  //document.getElementById("constante").innerText="";
+  //document.getElementById("constante").remove;
+  const valor =document.getElementById("constante");
+  valor.removeAttribute("constante");
 }else{document.getElementById("constante").innerText += localStorage.getItem("cantidad");
 };
 
@@ -26,7 +27,8 @@ var mostrarInfo = data.map(function(info){
               +'<p>'+info.descripcion+'</p>'
               +'<p>'+info.precio+' $ </p>'
               //+'<img src='+info.imagen+' />' 
-          +'</div>';
+          +'</div>'
+              
 }).join('')
 document.getElementById("contenedor").innerHTML= mostrarInfo;
 

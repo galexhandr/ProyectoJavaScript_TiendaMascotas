@@ -52,6 +52,7 @@ a{
   display: flex;
   flex-direction: column;
   justify-content: center;
+  flex-wrap: wrap;
   align-items: center;
   gap: 10px;
   margin-block: 30px;
@@ -93,6 +94,7 @@ a{
   display: flex;
   flex-direction: row;
   align-items: center;
+  flex-wrap: wrap;
   justify-content:center;
 }
 
@@ -101,11 +103,12 @@ a{
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  flex-wrap: wrap;
   gap: 10px;
   margin-block: 30px;
   margin-inline: 200px;
   border-radius: 20PX;
-  background-color: rgba(250, 67, 0, 0.685);
+  /*background-color: rgba(250, 67, 0, 0.685);*/
   
 }
 
@@ -118,6 +121,7 @@ a{
     flex-direction: row;
     justify-content: center;
     align-items: end;
+    ;
 }
 
 .menu1{
@@ -348,7 +352,7 @@ a{
   align-items: center;
   width: 100%;
   gap:15px;
-  padding: 100px;
+  padding-block: 200px;
 
 }
 
