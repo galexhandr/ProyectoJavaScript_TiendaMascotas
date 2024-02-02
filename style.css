@@ -115,7 +115,7 @@ a{
 .menu{
     /*background-color: rgba(245, 66, 1, 0.589);*/
     background-color: rgb(250, 67, 0);
-    width: 100vw;
+    width: 100%;
     /*height: 20%;*/
     display: flex;
     flex-direction: row;
