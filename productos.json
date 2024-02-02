@@ -1,0 +1,309 @@
+[
+  {
+    "id":1,
+    "imagen":"http://127.0.0.1:5500/Proyecto_JavaScript/Imagenes/IMG-20240122-WA0032.jpg", 
+    "nombre": "Rollo de carne de pollo",
+    "descripcion": "500gr de carne de pollo cruda con vegetales",
+    "precio": 25,
+    "stock": 100
+  },
+
+  
+  {
+    "id":2,
+    "imagen":"http://127.0.0.1:5500/Proyecto_JavaScript/Imagenes/IMG-20240122-WA0032.jpg", 
+    "nombre": "Rollo de carne de res",
+    "descripcion": "500gr de carne de res cruda con vegetales",
+    "precio": 25,
+    "stock": 100
+  },
+
+  {
+    "id":3,
+    "imagen":"http://127.0.0.1:5500/Proyecto_JavaScript/Imagenes/IMG-20240122-WA0032.jpg", 
+    "nombre": "Rollo de carne de cerdo",
+    "descripcion": "500gr de carne de cerdo cruda con vegetales",
+    "precio": 25,
+    "stock": 100
+  },
+
+  {
+    "id":4,
+    "imagen":"http://127.0.0.1:5500/Proyecto_JavaScript/Imagenes/IMG-20240122-WA0032.jpg", 
+    "nombre": "Fiambre carne de pollo",
+    "descripcion": "500gr de carne de pollo con vegetales cocido al vapor",
+    "precio": 25,
+    "stock": 100
+  },
+
+  {
+    "id":5,
+    "imagen":"http://127.0.0.1:5500/Proyecto_JavaScript/Imagenes/IMG-20240122-WA0032.jpg", 
+    "nombre": "Fiambre carne de res",
+    "descripcion": "500gr de carne de res con vegetales cocido al vapor",
+    "precio": 25,
+    "stock": 100
+  },
+
+  { 
+    "id":6,
+    "imagen":"http://127.0.0.1:5500/Proyecto_JavaScript/Imagenes/IMG-20240122-WA0032.jpg", 
+    "nombre": "Fiambre carne de cerdo",
+    "descripcion": "500gr de carne de cerdo con vegetales cocido al vapor",
+    "precio": 25,
+    "stock": 100
+  },
+  
+  {
+    "id":8,
+    "imagen":"http://127.0.0.1:5500/Proyecto_JavaScript/Imagenes/IMG-20240122-WA0032.jpg", 
+    "nombre": "Pienso",
+    "descripcion": "Pienso completo",
+    "precio": 25,
+    "stock": 100
+  },
+  
+  {
+    "id":9,
+    "imagen":"http://127.0.0.1:5500/Proyecto_JavaScript/Imagenes/IMG-20240122-WA0032.jpg", 
+    "nombre": "Pienso",
+    "descripcion": "Pienso completo",
+    "precio": 25,
+    "stock": 100
+  },
+
+  {
+    "id":10,
+    "imagen":"http://127.0.0.1:5500/Proyecto_JavaScript/Imagenes/IMG-20240122-WA0032.jpg", 
+    "nombre": "Pienso",
+    "descripcion": "Pienso completo",
+    "precio": 25,
+    "stock": 100
+  },
+
+  {
+    "id":11,
+    "imagen":"http://127.0.0.1:5500/Proyecto_JavaScript/Imagenes/IMG-20240122-WA0032.jpg", 
+    "nombre": "Pienso",
+    "descripcion": "Pienso completo",
+    "precio": 25,
+    "stock": 100
+  },
+
+  {
+    "id":11,
+    "imagen":"http://127.0.0.1:5500/Proyecto_JavaScript/Imagenes/IMG-20240122-WA0032.jpg", 
+    "nombre": "Pienso",
+    "descripcion": "Pienso completo",
+    "precio": 25,
+    "stock": 100
+  },
+
+  {
+    "id":12,
+    "imagen":"http://127.0.0.1:5500/Proyecto_JavaScript/Imagenes/IMG-20240122-WA0032.jpg", 
+    "nombre": "Pienso",
+    "descripcion": "Pienso completo",
+    "precio": 25,
+    "stock": 100
+  },
+
+  {
+    "id":13,
+    "imagen":"http://127.0.0.1:5500/Proyecto_JavaScript/Imagenes/IMG-20240122-WA0032.jpg", 
+    "nombre": "Pienso",
+    "descripcion": "Pienso completo",
+    "precio": 25,
+    "stock": 100
+  },
+  
+  {
+    "id":14,
+    "imagen":"http://127.0.0.1:5500/Proyecto_JavaScript/Imagenes/IMG-20240122-WA0032.jpg", 
+    "nombre": "Pienso",
+    "descripcion": "Pienso completo",
+    "precio": 25,
+    "stock": 100
+  },
+  
+  {
+    "id":15,
+    "imagen":"http://127.0.0.1:5500/Proyecto_JavaScript/Imagenes/IMG-20240122-WA0032.jpg", 
+    "nombre": "Pienso",
+    "descripcion": "Pienso completo",
+    "precio": 25,
+    "stock": 100
+  },
+
+  {
+    "id":16,
+    "imagen":"http://127.0.0.1:5500/Proyecto_JavaScript/Imagenes/IMG-20240122-WA0032.jpg", 
+    "nombre": "Pienso",
+    "descripcion": "Pienso completo",
+    "precio": 25,
+    "stock": 100
+  },
+
+  {
+    "id":17,
+    "imagen":"http://127.0.0.1:5500/Proyecto_JavaScript/Imagenes/IMG-20240122-WA0032.jpg", 
+    "nombre": "Pienso",
+    "descripcion": "Pienso completo",
+    "precio": 25,
+    "stock": 100
+  },
+
+  {
+    "id":18,
+    "imagen":"http://127.0.0.1:5500/Proyecto_JavaScript/Imagenes/IMG-20240122-WA0032.jpg", 
+    "nombre": "Pienso",
+    "descripcion": "Pienso completo",
+    "precio": 25,
+    "stock": 100
+  },
+
+  {
+    "id":19,
+    "imagen":"http://127.0.0.1:5500/Proyecto_JavaScript/Imagenes/IMG-20240122-WA0032.jpg", 
+    "nombre": "Pienso",
+    "descripcion": "Pienso completo",
+    "precio": 25,
+    "stock": 100
+  },
+
+  {
+    "id":20,
+    "imagen":"http://127.0.0.1:5500/Proyecto_JavaScript/Imagenes/IMG-20240122-WA0032.jpg", 
+    "nombre": "Pienso",
+    "descripcion": "Pienso completo",
+    "precio": 25,
+    "stock": 100
+  },
+  
+  {
+    "id":21,
+    "imagen":"http://127.0.0.1:5500/Proyecto_JavaScript/Imagenes/IMG-20240122-WA0032.jpg", 
+    "nombre": "Pienso",
+    "descripcion": "Pienso completo",
+    "precio": 25,
+    "stock": 100
+  },
+  
+  {
+    "id":22,
+    "imagen":"http://127.0.0.1:5500/Proyecto_JavaScript/Imagenes/IMG-20240122-WA0032.jpg", 
+    "nombre": "Pienso",
+    "descripcion": "Pienso completo",
+    "precio": 25,
+    "stock": 100
+  },
+
+  {
+    "id":23,
+    "imagen":"http://127.0.0.1:5500/Proyecto_JavaScript/Imagenes/IMG-20240122-WA0032.jpg", 
+    "nombre": "Pienso",
+    "descripcion": "Pienso completo",
+    "precio": 25,
+    "stock": 100
+  },
+
+  {
+    "id":24,
+    "imagen":"http://127.0.0.1:5500/Proyecto_JavaScript/Imagenes/IMG-20240122-WA0032.jpg", 
+    "nombre": "Pienso",
+    "descripcion": "Pienso completo",
+    "precio": 25,
+    "stock": 100
+  },
+  
+  {
+    "id":25,
+    "imagen":"http://127.0.0.1:5500/Proyecto_JavaScript/Imagenes/IMG-20240122-WA0032.jpg", 
+    "nombre": "Pienso",
+    "descripcion": "Pienso completo",
+    "precio": 25,
+    "stock": 100
+  },
+  
+  {
+    "id":26,
+    "imagen":"http://127.0.0.1:5500/Proyecto_JavaScript/Imagenes/IMG-20240122-WA0032.jpg", 
+    "nombre": "Pienso",
+    "descripcion": "Pienso completo",
+    "precio": 25,
+    "stock": 100
+  },
+
+  {
+    "id":27,
+    "imagen":"http://127.0.0.1:5500/Proyecto_JavaScript/Imagenes/IMG-20240122-WA0032.jpg", 
+    "nombre": "Pienso",
+    "descripcion": "Pienso completo",
+    "precio": 25,
+    "stock": 100
+  },
+
+  {
+    "id":28,
+    "imagen":"http://127.0.0.1:5500/Proyecto_JavaScript/Imagenes/IMG-20240122-WA0032.jpg", 
+    "nombre": "Pienso",
+    "descripcion": "Pienso completo",
+    "precio": 25,
+    "stock": 100
+  },
+
+  {
+    "id":29,
+    "imagen":"http://127.0.0.1:5500/Proyecto_JavaScript/Imagenes/IMG-20240122-WA0032.jpg", 
+    "nombre": "Pienso",
+    "descripcion": "Pienso completo",
+    "precio": 25,
+    "stock": 100
+  },
+
+  {
+    "id":30,
+    "imagen":"http://127.0.0.1:5500/Proyecto_JavaScript/Imagenes/IMG-20240122-WA0032.jpg", 
+    "nombre": "Pienso",
+    "descripcion": "Pienso completo",
+    "precio": 25,
+    "stock": 100
+  },
+
+  {
+    "id":31,
+    "imagen":"http://127.0.0.1:5500/Proyecto_JavaScript/Imagenes/IMG-20240122-WA0032.jpg", 
+    "nombre": "Pienso",
+    "descripcion": "Pienso completo",
+    "precio": 25,
+    "stock": 100
+  },
+  
+  {
+    "id":32,
+    "imagen":"http://127.0.0.1:5500/Proyecto_JavaScript/Imagenes/IMG-20240122-WA0032.jpg", 
+    "nombre": "Pienso",
+    "descripcion": "Pienso completo",
+    "precio": 25,
+    "stock": 100
+  },
+  
+  {
+    "id":33,
+    "imagen":"http://127.0.0.1:5500/Proyecto_JavaScript/Imagenes/IMG-20240122-WA0032.jpg", 
+    "nombre": "Pienso",
+    "descripcion": "Pienso completo",
+    "precio": 25,
+    "stock": 100
+  },
+
+  {
+    "id":34,
+    "imagen":"http://127.0.0.1:5500/Proyecto_JavaScript/Imagenes/IMG-20240122-WA0032.jpg", 
+    "nombre": "Pienso",
+    "descripcion": "Pienso completo",
+    "precio": 25,
+    "stock": 100
+  }
+
+]
